@@ -1,8 +1,5 @@
-mysite/mysite/__pycache__/urls.cpython-39.pyc
-mysite/polls/__pycache__/__init__.cpython-39.pyc
-mysite/polls/__pycache__/urls.cpython-39.pyc
 mysite/polls/__pycache__/views.cpython-39.pyc
-mysite/mysite/__pycache__/urls.cpython-39.pyc
+mysite/polls/__pycache__/urls.cpython-39.pyc
+mysite/polls/__pycache__/__init__.cpython-39.pyc
 mysite/mysite/__pycache__/settings.cpython-39.pyc
-
-mysite/polls/models.py
+mysite/db.sqlite3
